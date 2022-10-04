@@ -1,0 +1,14 @@
+blocked-items:
+  1:
+    name: "&cBlocked Item"
+    id: 58
+    lore:
+      - "&5This is a"
+      - "&cLore."
+    blocked-regions:
+      - "pvp"
+      - "spawn"
+    blocked-worlds:
+      - "world_the_end"
+
+message: "&cYou cannot use this item in this area!"

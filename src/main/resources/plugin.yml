@@ -1,0 +1,6 @@
+name: RegionItemBlocker
+version: '${project.version}'
+main: ro.kmagic.regionitemblocker.RegionItemBlocker
+depend: [ WorldGuard ]
+authors: [ kMagic ]
+description: Block specific items in worldguard regions.
